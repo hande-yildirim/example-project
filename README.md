@@ -1,2 +1,3 @@
 # example-project
-This is example project
+
+This is my first project
